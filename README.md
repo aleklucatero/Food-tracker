@@ -7,7 +7,7 @@ This is the final project for [learnjavascript.online](https://learnjavascript.o
 **First time**
 
 ```bash
-git clone https://github.com/aleklucatero/web-starter-parcel.git
+git clone https://github.com/aleklucatero/Food-tracker.git
 cd web-starter-parcel
 npm install
 ```
@@ -22,7 +22,7 @@ Browse to [localhost:1234](http://localhost:1234)
 
 ## Parcel
 
-This starter uses parcel (v2) to bundle your scripts. Refer to [aleklucatero/web-starter-parcel](https://github.com/aleklucaero/web-starter-parcel/) and the official [parcel documentation](https://parceljs.org/) for more info.
+This starter uses parcel (v2) to bundle your scripts. Refer to [aleklucatero/Food-tracker.git]((https://github.com/aleklucatero/Food-tracker.git)) and the official [parcel documentation](https://parceljs.org/) for more info.
 
 ## Build for production
 
